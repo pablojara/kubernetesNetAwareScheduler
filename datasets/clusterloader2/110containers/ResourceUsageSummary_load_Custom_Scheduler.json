@@ -1,0 +1,350 @@
+{
+  "100": [
+    {
+      "Name": "coredns-5c98db65d4-6ptzs/coredns",
+      "Cpu": 0.007219207,
+      "Mem": 14512128
+    },
+    {
+      "Name": "coredns-5c98db65d4-ldscq/coredns",
+      "Cpu": 0.007131089,
+      "Mem": 14794752
+    },
+    {
+      "Name": "etcd-ubuntu/etcd",
+      "Cpu": 0.0661531,
+      "Mem": 111890432
+    },
+    {
+      "Name": "kube-apiserver-ubuntu/kube-apiserver",
+      "Cpu": 0.117975423,
+      "Mem": 311037952
+    },
+    {
+      "Name": "kube-controller-manager-ubuntu/kube-controller-manager",
+      "Cpu": 0.049857874,
+      "Mem": 63889408
+    },
+    {
+      "Name": "kube-flannel-ds-amd64-8m2qv/kube-flannel",
+      "Cpu": 0.005570408,
+      "Mem": 14499840
+    },
+    {
+      "Name": "kube-flannel-ds-arm-m57rs/kube-flannel",
+      "Cpu": 0.050480107,
+      "Mem": 10551296
+    },
+    {
+      "Name": "kube-flannel-ds-arm-nkw4q/kube-flannel",
+      "Cpu": 0.018146712,
+      "Mem": 8339456
+    },
+    {
+      "Name": "kube-flannel-ds-arm-tlsv8/kube-flannel",
+      "Cpu": 0.01765785,
+      "Mem": 8835072
+    },
+    {
+      "Name": "kube-flannel-ds-arm-x45ls/kube-flannel",
+      "Cpu": 0.014919848,
+      "Mem": 8515584
+    },
+    {
+      "Name": "kube-proxy-5b4j4/kube-proxy",
+      "Cpu": 0.306591296,
+      "Mem": 23228416
+    },
+    {
+      "Name": "kube-proxy-8gdx6/kube-proxy",
+      "Cpu": 0.014249874,
+      "Mem": 21893120
+    },
+    {
+      "Name": "kube-proxy-bhzqj/kube-proxy",
+      "Cpu": 0.331525042,
+      "Mem": 12681216
+    },
+    {
+      "Name": "kube-proxy-l65m5/kube-proxy",
+      "Cpu": 0.033131829,
+      "Mem": 12677120
+    },
+    {
+      "Name": "kube-proxy-zs77d/kube-proxy",
+      "Cpu": 0.182954548,
+      "Mem": 12804096
+    },
+    {
+      "Name": "kube-scheduler-ubuntu/kube-scheduler",
+      "Cpu": 0.004617836,
+      "Mem": 19427328
+    },
+    {
+      "Name": "tiller-deploy-8557598fbc-khq7k/tiller",
+      "Cpu": 0.001002915,
+      "Mem": 7729152
+    }
+  ],
+  "50": [
+    {
+      "Name": "coredns-5c98db65d4-6ptzs/coredns",
+      "Cpu": 0.005185959,
+      "Mem": 14442496
+    },
+    {
+      "Name": "coredns-5c98db65d4-ldscq/coredns",
+      "Cpu": 0.005089235,
+      "Mem": 14671872
+    },
+    {
+      "Name": "etcd-ubuntu/etcd",
+      "Cpu": 0.041844257,
+      "Mem": 85082112
+    },
+    {
+      "Name": "kube-apiserver-ubuntu/kube-apiserver",
+      "Cpu": 0.064415645,
+      "Mem": 272154624
+    },
+    {
+      "Name": "kube-controller-manager-ubuntu/kube-controller-manager",
+      "Cpu": 0.025837042,
+      "Mem": 61513728
+    },
+    {
+      "Name": "kube-flannel-ds-amd64-8m2qv/kube-flannel",
+      "Cpu": 0.004145266,
+      "Mem": 14184448
+    },
+    {
+      "Name": "kube-flannel-ds-arm-m57rs/kube-flannel",
+      "Cpu": 0.011198615,
+      "Mem": 10022912
+    },
+    {
+      "Name": "kube-flannel-ds-arm-nkw4q/kube-flannel",
+      "Cpu": 0.010898943,
+      "Mem": 8216576
+    },
+    {
+      "Name": "kube-flannel-ds-arm-tlsv8/kube-flannel",
+      "Cpu": 0.012680557,
+      "Mem": 8417280
+    },
+    {
+      "Name": "kube-flannel-ds-arm-x45ls/kube-flannel",
+      "Cpu": 0.011213239,
+      "Mem": 8159232
+    },
+    {
+      "Name": "kube-proxy-5b4j4/kube-proxy",
+      "Cpu": 0.008895669,
+      "Mem": 15020032
+    },
+    {
+      "Name": "kube-proxy-8gdx6/kube-proxy",
+      "Cpu": 0.000665465,
+      "Mem": 21528576
+    },
+    {
+      "Name": "kube-proxy-bhzqj/kube-proxy",
+      "Cpu": 0.012375124,
+      "Mem": 12582912
+    },
+    {
+      "Name": "kube-proxy-l65m5/kube-proxy",
+      "Cpu": 0.001294955,
+      "Mem": 12423168
+    },
+    {
+      "Name": "kube-proxy-zs77d/kube-proxy",
+      "Cpu": 0.013654807,
+      "Mem": 12505088
+    },
+    {
+      "Name": "kube-scheduler-ubuntu/kube-scheduler",
+      "Cpu": 0.002400109,
+      "Mem": 19337216
+    },
+    {
+      "Name": "tiller-deploy-8557598fbc-khq7k/tiller",
+      "Cpu": 0.000256335,
+      "Mem": 7659520
+    }
+  ],
+  "90": [
+    {
+      "Name": "coredns-5c98db65d4-6ptzs/coredns",
+      "Cpu": 0.006249774,
+      "Mem": 14483456
+    },
+    {
+      "Name": "coredns-5c98db65d4-ldscq/coredns",
+      "Cpu": 0.00672751,
+      "Mem": 14704640
+    },
+    {
+      "Name": "etcd-ubuntu/etcd",
+      "Cpu": 0.05508372,
+      "Mem": 111841280
+    },
+    {
+      "Name": "kube-apiserver-ubuntu/kube-apiserver",
+      "Cpu": 0.081793643,
+      "Mem": 311017472
+    },
+    {
+      "Name": "kube-controller-manager-ubuntu/kube-controller-manager",
+      "Cpu": 0.045944332,
+      "Mem": 63664128
+    },
+    {
+      "Name": "kube-flannel-ds-amd64-8m2qv/kube-flannel",
+      "Cpu": 0.00492607,
+      "Mem": 14442496
+    },
+    {
+      "Name": "kube-flannel-ds-arm-m57rs/kube-flannel",
+      "Cpu": 0.014106848,
+      "Mem": 10280960
+    },
+    {
+      "Name": "kube-flannel-ds-arm-nkw4q/kube-flannel",
+      "Cpu": 0.014610768,
+      "Mem": 8286208
+    },
+    {
+      "Name": "kube-flannel-ds-arm-tlsv8/kube-flannel",
+      "Cpu": 0.015852745,
+      "Mem": 8757248
+    },
+    {
+      "Name": "kube-flannel-ds-arm-x45ls/kube-flannel",
+      "Cpu": 0.013937341,
+      "Mem": 8429568
+    },
+    {
+      "Name": "kube-proxy-5b4j4/kube-proxy",
+      "Cpu": 0.037955612,
+      "Mem": 23121920
+    },
+    {
+      "Name": "kube-proxy-8gdx6/kube-proxy",
+      "Cpu": 0.010224892,
+      "Mem": 21803008
+    },
+    {
+      "Name": "kube-proxy-bhzqj/kube-proxy",
+      "Cpu": 0.071225892,
+      "Mem": 12660736
+    },
+    {
+      "Name": "kube-proxy-l65m5/kube-proxy",
+      "Cpu": 0.017802459,
+      "Mem": 12595200
+    },
+    {
+      "Name": "kube-proxy-zs77d/kube-proxy",
+      "Cpu": 0.033419994,
+      "Mem": 12623872
+    },
+    {
+      "Name": "kube-scheduler-ubuntu/kube-scheduler",
+      "Cpu": 0.004553549,
+      "Mem": 19427328
+    },
+    {
+      "Name": "tiller-deploy-8557598fbc-khq7k/tiller",
+      "Cpu": 0.000357317,
+      "Mem": 7725056
+    }
+  ],
+  "99": [
+    {
+      "Name": "coredns-5c98db65d4-6ptzs/coredns",
+      "Cpu": 0.007219207,
+      "Mem": 14512128
+    },
+    {
+      "Name": "coredns-5c98db65d4-ldscq/coredns",
+      "Cpu": 0.007131089,
+      "Mem": 14794752
+    },
+    {
+      "Name": "etcd-ubuntu/etcd",
+      "Cpu": 0.0661531,
+      "Mem": 111890432
+    },
+    {
+      "Name": "kube-apiserver-ubuntu/kube-apiserver",
+      "Cpu": 0.117975423,
+      "Mem": 311037952
+    },
+    {
+      "Name": "kube-controller-manager-ubuntu/kube-controller-manager",
+      "Cpu": 0.049857874,
+      "Mem": 63889408
+    },
+    {
+      "Name": "kube-flannel-ds-amd64-8m2qv/kube-flannel",
+      "Cpu": 0.005570408,
+      "Mem": 14499840
+    },
+    {
+      "Name": "kube-flannel-ds-arm-m57rs/kube-flannel",
+      "Cpu": 0.050480107,
+      "Mem": 10551296
+    },
+    {
+      "Name": "kube-flannel-ds-arm-nkw4q/kube-flannel",
+      "Cpu": 0.018146712,
+      "Mem": 8339456
+    },
+    {
+      "Name": "kube-flannel-ds-arm-tlsv8/kube-flannel",
+      "Cpu": 0.01765785,
+      "Mem": 8835072
+    },
+    {
+      "Name": "kube-flannel-ds-arm-x45ls/kube-flannel",
+      "Cpu": 0.014919848,
+      "Mem": 8515584
+    },
+    {
+      "Name": "kube-proxy-5b4j4/kube-proxy",
+      "Cpu": 0.306591296,
+      "Mem": 23228416
+    },
+    {
+      "Name": "kube-proxy-8gdx6/kube-proxy",
+      "Cpu": 0.014249874,
+      "Mem": 21893120
+    },
+    {
+      "Name": "kube-proxy-bhzqj/kube-proxy",
+      "Cpu": 0.331525042,
+      "Mem": 12681216
+    },
+    {
+      "Name": "kube-proxy-l65m5/kube-proxy",
+      "Cpu": 0.033131829,
+      "Mem": 12677120
+    },
+    {
+      "Name": "kube-proxy-zs77d/kube-proxy",
+      "Cpu": 0.182954548,
+      "Mem": 12804096
+    },
+    {
+      "Name": "kube-scheduler-ubuntu/kube-scheduler",
+      "Cpu": 0.004617836,
+      "Mem": 19427328
+    },
+    {
+      "Name": "tiller-deploy-8557598fbc-khq7k/tiller",
+      "Cpu": 0.001002915,
+      "Mem": 7729152
+    }
+  ]
+}

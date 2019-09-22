@@ -1,0 +1,5 @@
+podsScheduled: 10
+dataPerPod(MB): 100
+affectedNodes: worker0, worker1, worker2
+---------------------
+time(ms): 473147
