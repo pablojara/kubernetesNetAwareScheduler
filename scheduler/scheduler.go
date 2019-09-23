@@ -381,34 +381,6 @@ func (s *CustomScheduler) bindPod(p *v1.Pod, node string) error {
 	})
 }
 
-func (s *CustomScheduler) emitEvent(p *v1.Pod, message string) error {
-	timestamp := time.Now().UTC()
-	_, err := s.clientset.CoreV1().Events(p.Namespace).Create(&v1.Event{
-		Count:          1,
-		Message:        message,
-		Reason:         "Scheduled",
-		LastTimestamp:  metav1.NewTime(timestamp),
-		FirstTimestamp: metav1.NewTime(timestamp),
-		Type:           "Normal",
-		Source: v1.EventSource{
-			Component: SchedulerName,
-		},
-		InvolvedObject: v1.ObjectReference{
-			Kind:      "Pod",
-			Name:      p.Name,
-			Namespace: p.Namespace,
-			UID:       p.UID,
-		},
-		ObjectMeta: metav1.ObjectMeta{
-			GenerateName: p.Name + "-",
-		},
-	})
-	if err != nil {
-		return err
-	}
-	return nil
-}
-
 func (s *CustomScheduler) findBestNode(priorities map[string]int) string {
 	var maxP int
 	var bestNode string
